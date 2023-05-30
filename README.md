@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad Ahmed</h1>
 <h3 align="center">A Software Engineer passionate about backend development and Big data</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fangry-panda-breaking-computer-ahsip0td5j7e1cv8.html&psig=AOvVaw3ER-WDGzvDoWKEkNwMv0kU&ust=1685537685592000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMC9jqmLnf8CFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/angry-panda-breaking-computer-ahsip0td5j7e1cv8.gif">
 
 - 💬 Ask me about **Django, Python, Postgres**
 
