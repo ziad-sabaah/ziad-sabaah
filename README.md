@@ -1,14 +1,14 @@
-
 <h1 align="center">Hi 👋, I'm Ziad Ahmed</h1>
 <h3 align="center">A Software Engineer passionate about backend development and Big data</h3>
-<img align="right" alt="Coding" width="400" src="[https://gifdb.com/images/file/angry-panda-breaking-computer-ahsip0td5j7e1cv8.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FWYX9PyUhjWkXC%2F200w.gif%3Fcid%3D6c09b9523li035k2idtiy29bjlt6tfepamnhklor5fq0crdh%26ep%3Dv1_gifs_search%26rid%3D200w.gif%26ct%3Dg&tbnid=fRCFmNMKp2qN6M&vet=12ahUKEwj8jIzPo9KJAxVIUEEAHQZUFxoQxiAoCnoECAAQPw..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fmichael-scott-running&docid=H1e2Aw266SdMyM&w=200&h=150&itg=1&q=frustrated%20developer%20funny%20gif%20about%20software%20engineering&ved=2ahUKEwj8jIzPo9KJAxVIUEEAHQZUFxoQxiAoCnoECAAQPw)">
-- 🔭 I’m currently working as **ASP.CORE Dev**
+<img align="right" alt="Coding" width="400" src="">
 
+- 🔭 I’m currently working as **ASP.CORE Dev**
 - 💬 Ask me about **Backend & Big Data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ziad-ahmed-abdelaziz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ziad-ahmed-abdelaziz/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ziad_sabaah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ziad_sabaah" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/_ziad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/_ziad/" height="30" width="40" /></a>
 </p>
 
