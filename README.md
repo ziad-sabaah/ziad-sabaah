@@ -2,7 +2,6 @@
 <h3 align="center">A Software Engineer passionate about backend development and Big data</h3>
 <img align="right" alt="Coding" width="400" src="giphy.webp">
 
-- 🔭 I’m currently working as **ASP.CORE Dev**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ziad-ahmed-abdelaziz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ziad-ahmed-abdelaziz/" height="30" width="40" /></a>
